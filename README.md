@@ -7,3 +7,6 @@ from [Vitalik's blog](https://vitalik.ca/general/2019/09/22/plonk.html) on PLONK
 The accompanying tutorial plonk_tutorial.ipynb is WIP and contains essentially the same code but explains the steps in some detail.
 
 Critique, contributions and suggestions are welcome.
+
+
+https://trapdoortech.medium.com/zkp-plonk-algorithm-introduction-834556a32a
